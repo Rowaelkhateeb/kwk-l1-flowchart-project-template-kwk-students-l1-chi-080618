@@ -1,0 +1,74 @@
+html {
+ background: url("http://homedesignlatest.site/wp-content/uploads/10/30/hardwood-floor-background-wallpaper-hd-desktop-wallpapers-k-s-the-most-suitable-home-design-wood-dark-hardwood-floor-background-s-the-most.jpg") no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+/* The alert message box */
+.alert {
+    padding: 50px;
+    background-color: black; 
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-size: 33px;
+    font-family: cursive;
+    width: 400px;
+    height: 80px;    
+}
+
+/* The close button */
+.closebtn {
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 50px;
+    line-height: 3px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+}
+
+h1 {
+  color: #BC8F8F;
+  font-weight: bold;
+  font-family: impact;
+  text-align:center;
+}
+
+h2 {
+  color: #FFEBEE;
+  font-family: ariel;
+  font-size: 20px;
+}
+
+h3{
+  color: #FFDAB9;
+  font-family: ariel;
+  font-style: italic;
+  
+}
+
+h4 {
+  color: #004D40;
+  font-family: Courier;
+}
+
+.quizbutton {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
